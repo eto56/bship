@@ -1,0 +1,51 @@
+ a b c d e f g h i
+8 x x o o o o o x x
+7 x o o o o o o o x
+6 o o o o o o o o o
+5 o o o o o o o o o
+4 o o o o o o o o o
+3 o o o o o o o o o
+2 o o o o o o o o o
+1 x o o o o o o o x
+0 x x o o o o o x x
+
+
+  a b c d e f g h i
+8 x x o s o s o x x
+7 x c o o o o o o x
+6 o c o c o b o o s
+5 o c o c o b o o o
+4 o o o c o b o o s
+3 d o o o o b o o o
+2 d o o o o o o o o
+1 x o o o o o o o x
+0 x x d d o d d x x
+
+"Bf6f5f4f3 Cd4d5d6 Cb5b6b7 Dg0f0 Dc0d0 Da2a3 Se8 Sg8 Si6 Si4 "
+
+
+const char deployment[]="Bf5f6f7f8 Cc0d0e0 Cg1g2g3 Dc8d8 Dh5i5 Di2i3 Sb3 Sb5 Sd4 Sh7 ";
+
+  a b c d e f g h i
+8 x x d d o b o x x
+7 x o o o o b o s x
+6 o o o o o b o o o
+5 o s o o o b o d d
+4 o o o s o o o o o
+3 o s o o o o c o d
+2 o o o o o o c o d
+1 x o o o o o c o x
+0 x x c c c o o x x
+
+  a b c d e f g h i
+8 x x o o o o o x x
+7 x o o s o s o o x
+6 c o o o o o o o d
+5 c o o o s o o o d
+4 c o o o o o o o o
+3 o o o o o b b b b
+2 o c c c o o o o o
+1 x o o o o d o s x
+0 x x d d o d o x x
+
+const char deployment[]="Bf3g3h3i3 Cb2c2d2 Ca4a5a6 Di5i6 Dc0d0 Df0f1 Sd7 Sf7 Se5 Sh1 ";

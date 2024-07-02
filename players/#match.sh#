@@ -1,0 +1,6 @@
+../master/master &
+sleep 1
+../players/player &
+sleep 1
+../sample/ta-1 &
+

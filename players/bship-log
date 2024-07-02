@@ -1,0 +1,407 @@
+winner = sweep, loser = random, rule = hit-all, reason = sunk all in 75 rounds, winner probably = ??
+winner = sweep, loser = ex1, rule = hit-all, reason = sunk all in 75 rounds, winner probably = ??
+winner = sweep, loser = random, rule = hit-all, reason = sunk all in 75 rounds, winner probably = ??
+winner = sweep, loser = ex1, rule = hit-all, reason = sunk all in 75 rounds, winner probably = ??
+winner = sweep, loser = ex2, rule = hit-all, reason = sunk all in 75 rounds, winner probably = ??
+winner = sweep, loser = ex3, rule = hit-all, reason = sunk all in 75 rounds, winner probably = ??
+winner = sweep, loser = ex1, rule = hit-all, reason = opponent's deployment bad, winner probably = ??
+winner = sweep, loser = ex1, rule = hit-all, reason = opponent's deployment bad, winner probably = ??
+winner = sweep, loser = ex1, rule = hit-all, reason = opponent's deployment bad, winner probably = ??
+winner = sweep, loser = ex1, rule = hit-all, reason = opponent's deployment bad, winner probably = ??
+winner = sweep, loser = ex1, rule = hit-all, reason = opponent's deployment bad, winner probably = ??
+winner = sweep, loser = ex1, rule = hit-all, reason = opponent's deployment bad, winner probably = ??
+winner = sweep, loser = ex1, rule = hit-all, reason = sunk all in 75 rounds, winner probably = ??
+winner = sweep, loser = ex1, rule = hit-all, reason = opponent's deployment bad, winner probably = ??
+winner = sweep, loser = ex1, rule = hit-all, reason = opponent's deployment bad, winner probably = ??
+winner = sweep, loser = ex1, rule = hit-all, reason = opponent's deployment bad, winner probably = ??
+winner = sweep, loser = ex2, rule = hit-all, reason = sunk all in 75 rounds, winner probably = ??
+winner = sweep, loser = ex2, rule = hit-all, reason = sunk all in 75 rounds, winner probably = ??
+winner = sweep, loser = ex2, rule = hit-all, reason = sunk all in 75 rounds, winner probably = ??
+winner = ex3, loser = ex2, rule = hit-any, reason = sunk all in 69 rounds, winner probably = ??
+winner = draw, loser = draw, rule = hit-any, reason = draw
+winner = ex2, loser = ex3, rule = hit-any, reason = sunk all in 51 rounds, winner probably = ??
+winner = ex3, loser = ex2, rule = hit-any, reason = sunk all in 69 rounds, winner probably = ??
+winner = ex2, loser = ex4, rule = hit-any, reason = timeout on  opponent, winner probably = ??
+winner = draw, loser = draw, rule = hit-any, reason = draw
+winner = draw, loser = draw, rule = hit-any, reason = draw
+winner = ex4, loser = ex2, rule = hit-any, reason = sunk all in 66 rounds, winner probably = ??
+winner = ex3, loser = ex2, rule = hit-any, reason = sunk all in 69 rounds, winner probably = ??
+winner = ex4, loser = ex2, rule = hit-any, reason = sunk all in 57 rounds, winner probably = ??
+winner = ex2, loser = ex4, rule = hit-any, reason = timeout on  opponent, winner probably = ??
+winner = ex3, loser = ex2, rule = hit-any, reason = sunk all in 69 rounds, winner probably = ??
+winner = ex3, loser = ex2, rule = hit-any, reason = sunk all in 69 rounds, winner probably = ??
+winner = ex5, loser = ex4, rule = hit-any, reason = sunk all in 39 rounds, winner probably = ??
+winner = ex4, loser = ex5, rule = hit-any, reason = sunk all in 45 rounds, winner probably = ??
+winner = ex4, loser = ex5, rule = hit-any, reason = timeout on  opponent, winner probably = ??
+winner = ex3, loser = sweep, rule = hit-all, reason = sunk all in 74 rounds, winner probably = ??
+winner = sweep, loser = ex3, rule = hit-all, reason = sunk all in 75 rounds, winner probably = ??
+winner = ex4, loser = player, rule = hit-any, reason = sunk all in 43 rounds, winner probably = ??
+winner = player, loser = ex4, rule = hit-any, reason = sunk all in 53 rounds, winner probably = ??
+winner = ex4, loser = player, rule = hit-any, reason = sunk all in 44 rounds, winner probably = ??
+winner = player, loser = ex4, rule = hit-any, reason = sunk all in 52 rounds, winner probably = ??
+winner = player, loser = ex4, rule = hit-any, reason = sunk all in 62 rounds, winner probably = ??
+winner = player, loser = ex4, rule = hit-any, reason = sunk all in 42 rounds, winner probably = ??
+winner = player, loser = ex4, rule = hit-any, reason = sunk all in 24 rounds, winner probably = ??
+winner = player, loser = sweep, rule = hit-all, reason = sunk all in 48 rounds, winner probably = ??
+winner = player, loser = sweep, rule = hit-all, reason = sunk all in 41 rounds, winner probably = ??
+winner = player, loser = sweep, rule = hit-all, reason = sunk all in 43 rounds, winner probably = ??
+winner = strong TA, loser = player, rule = hit-all, reason = sunk all in 40 rounds, winner probably = ??
+winner = player, loser = enemy4, rule = hit-all, reason = sunk all in 43 rounds, winner probably = ??
+winner = strong TA, loser = player, rule = hit-any, reason = sunk all in 43 rounds, winner probably = ??
+winner = strong TA, loser = player, rule = hit-any, reason = sunk all in 40 rounds, winner probably = ??
+winner = player, loser = strong TA, rule = hit-any, reason = sunk all in 42 rounds, winner probably = ??
+winner = player, loser = weak TA, rule = hit-any, reason = sunk all in 41 rounds, winner probably = ??
+winner = weak TA, loser = player, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = weak TA, loser = player, rule = hit-any, reason = sunk all in 40 rounds, winner probably = ??
+winner = weak TA, loser = player, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = player, loser = strong TA, rule = hit-any, reason = sunk all in 43 rounds, winner probably = ??
+winner = weak TA, loser = player, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = weak TA, loser = player, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = player, loser = weak TA, rule = hit-any, reason = sunk all in 41 rounds, winner probably = ??
+winner = weak TA, loser = player, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = weak TA, loser = player, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = 03240288, loser = weak TA, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = player, loser = strong TA, rule = hit-any, reason = sunk all in 30 rounds, winner probably = ??
+winner = 03240288, loser = weak TA, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 39 rounds, winner probably = ??
+winner = very weakTA, loser = 03240288, rule = hit-any, reason = sunk all in 39 rounds, winner probably = ??
+winner = 03240288, loser = very weakTA, rule = hit-any, reason = sunk all in 23 rounds, winner probably = ??
+winner = 03240288, loser = very weakTA, rule = hit-any, reason = sunk all in 40 rounds, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = sunk all in 42 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = timeout on  opponent, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 39 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = timeout on  opponent, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = timeout on  opponent, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = timeout on  opponent, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = timeout on  opponent, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = timeout on  opponent, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = now, loser = strong TA, rule = hit-any, reason = sunk all in 27 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = timeout on  opponent, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = now, loser = strong TA, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = now, loser = ex1, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = now, loser = ex1, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = now, loser = ex1, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = now, loser = ex1, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = ex1, loser = now, rule = hit-any, reason = timeout on  opponent, winner probably = ??
+winner = ex1, loser = now, rule = hit-any, reason = timeout on  opponent, winner probably = ??
+winner = draw, loser = draw, rule = hit-any, reason = draw
+winner = draw, loser = draw, rule = hit-any, reason = draw
+winner = ex1, loser = now, rule = hit-any, reason = timeout on  opponent, winner probably = ??
+winner = now, loser = ex1, rule = hit-any, reason = sunk all in 40 rounds, winner probably = ??
+winner = now, loser = ex1, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = weak TA, loser = now, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = weak TA, loser = now, rule = hit-any, reason = sunk all in 41 rounds, winner probably = ??
+winner = weak TA, loser = now, rule = hit-any, reason = sunk all in 45 rounds, winner probably = ??
+winner = weak TA, loser = now, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = now, loser = ex1, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = ex1, loser = now, rule = hit-any, reason = timeout on  opponent, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = now, loser = strong TA, rule = hit-any, reason = sunk all in 29 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = now, loser = weak TA, rule = hit-any, reason = sunk all in 30 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = strong TA, loser = now, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = now, loser = strong TA, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = now, loser = strong TA, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = opponent's deployment bad, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = opponent's deployment bad, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = opponent's deployment bad, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = opponent's deployment bad, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = sunk all in 22 rounds, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = sunk all in 23 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = opponent's deployment bad, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = opponent's deployment bad, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = opponent's deployment bad, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = opponent's deployment bad, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = opponent's deployment bad, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = opponent's deployment bad, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = 03240288, loser = weak TA, rule = hit-any, reason = sunk all in 29 rounds, winner probably = ??
+winner = 03240288, loser = very weakTA, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = 03240288, loser = enemy1, rule = hit-any, reason = sunk all in 40 rounds, winner probably = ??
+winner = 03240288, loser = enemy2, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = 03240288, loser = enemy3, rule = hit-any, reason = sunk all in 40 rounds, winner probably = ??
+winner = 03240288, loser = enemy4, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = 03240288, loser = enemy5, rule = hit-any, reason = sunk all in 45 rounds, winner probably = ??
+winner = 03240288, loser = enemy6, rule = hit-any, reason = sunk all in 42 rounds, winner probably = ??
+winner = 03240288, loser = enemy6, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = opponent's deployment bad, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = opponent's deployment bad, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 27 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 23 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 27 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 23 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 27 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 25 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 23 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 24 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 24 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 24 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 23 rounds, winner probably = ??
+winner = 03240288, loser = weak TA, rule = hit-any, reason = sunk all in 31 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 24 rounds, winner probably = ??
+winner = very weakTA, loser = 03240288, rule = hit-any, reason = sunk all in 19 rounds, winner probably = ??
+winner = 03240288, loser = very weakTA, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 26 rounds, winner probably = ??
+winner = 03240288, loser = very weakTA, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 30 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 27 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = 03240288, loser = weak TA, rule = hit-any, reason = sunk all in 31 rounds, winner probably = ??
+winner = 03240288, loser = weak TA, rule = hit-any, reason = sunk all in 29 rounds, winner probably = ??
+winner = 03240288, loser = very weakTA, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = very weakTA, loser = 03240288, rule = hit-any, reason = sunk all in 24 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = 03240288, loser = weak TA, rule = hit-any, reason = sunk all in 30 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 31 rounds, winner probably = ??
+winner = strong TA, loser = 03240288, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 30 rounds, winner probably = ??
+winner = clone, loser = 03240288, rule = hit-any, reason = sunk all in 30 rounds, winner probably = ??
+winner = clone, loser = 03240288, rule = hit-any, reason = sunk all in 31 rounds, winner probably = ??
+winner = clone, loser = 03240288, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = clone, loser = 03240288, rule = hit-any, reason = sunk all in 31 rounds, winner probably = ??
+winner = 03240288, loser = clone, rule = hit-any, reason = sunk all in 39 rounds, winner probably = ??
+winner = clone, loser = 03240288, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = 03240288, loser = clone, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = clone, loser = 03240288, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = clone, loser = 03240288, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = clone, loser = 03240288, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = 03240288, loser = clone, rule = hit-any, reason = sunk all in 40 rounds, winner probably = ??
+winner = 03240288, loser = clone, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = clone, loser = 03240288, rule = hit-any, reason = sunk all in 30 rounds, winner probably = ??
+winner = clone, loser = 03240288, rule = hit-any, reason = sunk all in 26 rounds, winner probably = ??
+winner = clone, loser = 03240288, rule = hit-any, reason = sunk all in 23 rounds, winner probably = ??
+winner = clone, loser = 03240288, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = clone, loser = 03240288, rule = hit-any, reason = sunk all in 25 rounds, winner probably = ??
+winner = clone, loser = 03240288, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = clone, loser = 03240288, rule = hit-any, reason = sunk all in 29 rounds, winner probably = ??
+winner = Very Strong!, loser = clone, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = clone, loser = Very Strong!, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = clone, loser = Very Strong!, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = Very Strong!, loser = clone, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = Very Strong!, loser = clone, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = Very Strong!, loser = clone, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = clone, loser = Very Strong!, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = Very Strong!, loser = clone, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = Very Strong!, loser = clone, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = clone, loser = Very Strong!, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = Very Strong!, loser = clone, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = clone, loser = Very Strong!, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = Very Strong!, loser = clone, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = clone, loser = Very Strong!, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = clone, loser = Very Strong!, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 26 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 31 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 31 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 29 rounds, winner probably = ??
+winner = 03240288, loser = very weakTA, rule = hit-any, reason = sunk all in 30 rounds, winner probably = ??
+winner = 03240288, loser = weak TA, rule = hit-any, reason = sunk all in 31 rounds, winner probably = ??
+winner = 03240288, loser = strong TA, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = Very Strong!, loser = clone, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = 03240288, loser = very weakTA, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = 03240288, loser = very weakTA, rule = hit-any, reason = sunk all in 31 rounds, winner probably = ??
+winner = 03240288, loser = weak TA, rule = hit-any, reason = sunk all in 30 rounds, winner probably = ??
+winner = 03240288, loser = weak TA, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = 03240288, loser = weak TA, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = 03240288, loser = weak TA, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = 03240288, loser = weak TA, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 31 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = 03240288, loser = Very Strong!, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 27 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 25 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 31 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 30 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 29 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 31 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 26 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 39 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 30 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 40 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 39 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = Very Strong!, loser = vvstrong, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = Very Strong!, loser = vvstrong, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = Very Strong!, loser = vvstrong, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = Very Strong!, loser = vvstrong, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = Very Strong!, loser = strong TA, rule = hit-any, reason = sunk all in 23 rounds, winner probably = ??
+winner = vvstrong, loser = strong TA, rule = hit-any, reason = sunk all in 24 rounds, winner probably = ??
+winner = vvstrong, loser = strong TA, rule = hit-any, reason = sunk all in 29 rounds, winner probably = ??
+winner = vvstrong, loser = strong TA, rule = hit-any, reason = sunk all in 26 rounds, winner probably = ??
+winner = vvstrong, loser = strong TA, rule = hit-any, reason = sunk all in 26 rounds, winner probably = ??
+winner = Very Strong!, loser = vvstrong, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = Very Strong!, loser = vvstrong, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = Very Strong!, loser = vvstrong, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = Very Strong!, loser = vvstrong, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 31 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = 03240288, loser = clone, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 42 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 26 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 31 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 30 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = opponent's deployment bad, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = opponent's deployment bad, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 40 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 30 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 30 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = opponent's deployment bad, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 27 rounds, winner probably = ??
+winner = 03240288, loser = ex2, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 40 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 40 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 42 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 39 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 39 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 41 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 39 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 39 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 37 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = timeout on  opponent, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 39 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 30 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 40 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 30 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = timeout on  opponent, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 36 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = vvstrong, loser = 03240288, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = 03240288, loser = ex3, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = 03240288, loser = ex3, rule = hit-any, reason = sunk all in 25 rounds, winner probably = ??
+winner = 03240288, loser = ex3, rule = hit-any, reason = sunk all in 38 rounds, winner probably = ??
+winner = 03240288, loser = ex3, rule = hit-any, reason = sunk all in 28 rounds, winner probably = ??
+winner = 03240288, loser = ex3, rule = hit-any, reason = sunk all in 34 rounds, winner probably = ??
+winner = 03240288, loser = ex3, rule = hit-any, reason = sunk all in 33 rounds, winner probably = ??
+winner = 03240288, loser = ex3, rule = hit-any, reason = sunk all in 35 rounds, winner probably = ??
+winner = 03240288, loser = vvstrong, rule = hit-any, reason = sunk all in 32 rounds, winner probably = ??
+winner = Very Strong!, loser = 03240288, rule = hit-any, reason = sunk all in 29 rounds, winner probably = ??
+winner = 03240288, loser = ex3, rule = hit-any, reason = sunk all in 43 rounds, winner probably = ??
+winner = 03240288, loser = ex3, rule = hit-any, reason = sunk all in 40 rounds, winner probably = ??
+winner = 03240288, loser = ex3, rule = hit-any, reason = sunk all in 41 rounds, winner probably = ??
+winner = 03240288, loser = ex3, rule = hit-any, reason = sunk all in 42 rounds, winner probably = ??
+winner = 03240288, loser = ex3, rule = hit-any, reason = sunk all in 42 rounds, winner probably = ??
+winner = 03240288, loser = ex3, rule = hit-any, reason = sunk all in 41 rounds, winner probably = ??
+winner = 03240288, loser = ex3, rule = hit-any, reason = sunk all in 44 rounds, winner probably = ??
+winner = 03240288, loser = ex3, rule = hit-any, reason = sunk all in 42 rounds, winner probably = ??

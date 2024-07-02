@@ -1,0 +1,6 @@
+../master/master &
+sleep 1
+../players/ex2 &
+sleep 1
+../players/player &
+

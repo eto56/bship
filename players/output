@@ -1,0 +1,463 @@
+[Master] server is accepting
+[Master] client connected
+[Master] client claims to be `player'
+[Master] client connected
+[Master] client claims to be `enemy4'
+[Master] both clients connected
+[Master] player sent deployment `Ba3a4a5a6 Cc1c2c3 Cc5c6c7 De1e2 De4e5 De7e8 Sg1 Sg3 Sg5 Sg7 '
+
+[Master] processing deployment Ba3a4a5a6 Cc1c2c3 Cc5c6c7 De1e2 De4e5 De7e8 Sg1 Sg3 Sg5 Sg7 
+[Master] enemy4 sent deployment `Bi3i4i5i6 Cg0g1g2 Cg6g7g8 Dc1c2 Dc4c5 Dc7c8 Sa2 Sa4 Sa6 Sg4 '
+
+[Master] processing deployment Bi3i4i5i6 Cg0g1g2 Cg6g7g8 Dc1c2 Dc4c5 Dc7c8 Sa2 Sa4 Sa6 Sg4 
+
+            player0's ships             player1's ships
+            0 1 2 3 4 5 6 7 8           0 1 2 3 4 5 6 7 8 
+          8  R R . . D . . R R  i      8 R R D . . . C R R  i 
+          7  R . C . D . S . R  h      7 R . D . . . C . R  h 
+          6  B . C . . . . . .  g      6 S . . . . . C . B  g 
+          5  B . C . D . S . .  f      5 . . D . . . . . B  f 
+          4  B . . . D . . . .  e      4 S . D . . . S . B  e 
+          3  B . C . . . S . .  d      3 . . . . . . . . B  d 
+          2  . . C . D . . . .  c      2 S . D . . . C . .  c 
+          1  R . C . D . S . R  b      1 R . D . . . C . R  b 
+          0  R R . . . . . R R  a      0 R R . . . . C R R  a 
+            0 1 2 3 4 5 6 7 8           0 1 2 3 4 5 6 7 8 
+[Master] player sent shot 5,2 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 4,2 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 7,3 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 1,5 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 8,6 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 3,4 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 3,8 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 4,5 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 6,5 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 4,1 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 6,8 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 8,2 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 3,1 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 2,1 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 2,3 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 4,0 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 6,7 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 6,1 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 0,6 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 4,8 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 6,2 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 4,6 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 8,4 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 4,4 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 6,0 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 7,4 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 0,2 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 6,4 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 4,7 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 2,8 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 2,0 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 3,6 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 6,6 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 3,3 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 1,4 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 4,3 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 0,4 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 2,4 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 8,5 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 2,6 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 8,3 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 2,7 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 2,5 
+[Master] enemy4 sent shot 1,1 
+[Master] player sent shot 2,2 
+[Master] player (player 0) wins! (on round 43)
+[Master] ---all done--- 
+... [player] result:  
+ 8 R R U N U U C R R 
+ 7 R U U U U N U N R 
+ 6 U U U U U U U U B 
+ 5 U N U U N U N N U 
+ 4 U U U N U U U U U 
+ 3 U U N U U U U N U 
+ 2 U N U N N N U U N 
+ 1 R U D N N U U U R 
+ 0 R N U N N U U R R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 67 ... [player] result: C
+ 8 R R U N U N C N R 
+ 7 R U U U U N C N R 
+ 6 U U U U U N U N B 
+ 5 U N U U N U N N U 
+ 4 U U U N U U U U U 
+ 3 U U N U U U U N U 
+ 2 U N U N N N U U N 
+ 1 R U D N N U U U R 
+ 0 R N U N N U U R R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 61 ... [player] result: C
+ 8 R R U N U N C N R 
+ 7 R U U U U N C N R 
+ 6 U U U U U N U N B 
+ 5 U N U U N U N N U 
+ 4 U U U N U U U U U 
+ 3 U U N U U U U N U 
+ 2 U N U N N N U N N 
+ 1 R U D N N U C U R 
+ 0 R N U N N N U N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 06 ... [player] result: S
+ 8 R R U N U N C N R 
+ 7 R N U U U N C N R 
+ 6 S N U U U N U N B 
+ 5 N N U U N U N N U 
+ 4 U U U N U U U U U 
+ 3 U U N U U U U N U 
+ 2 U N U N N N U N N 
+ 1 R U D N N U C U R 
+ 0 R N U N N N U N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 48 ... [player] result:  
+ 8 R R U N N N C N R 
+ 7 R N U U U N C N R 
+ 6 S N U U U N U N B 
+ 5 N N U U N U N N U 
+ 4 U U U N U U U U U 
+ 3 U U N U U U U N U 
+ 2 U N U N N N U N N 
+ 1 R U D N N U C U R 
+ 0 R N U N N N U N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 62 ... [player] result: C
+ 8 R R U N N N C N R 
+ 7 R N U U U N C N R 
+ 6 S N U U U N U N B 
+ 5 N N U U N U N N U 
+ 4 U U U N U U U U U 
+ 3 U U N U U N U N U 
+ 2 U N U N N N C N N 
+ 1 R U D N N N C N R 
+ 0 R N U N N N U N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 46 ... [player] result:  
+ 8 R R U N N N C N R 
+ 7 R N U U U N C N R 
+ 6 S N U U N N U N B 
+ 5 N N U U N U N N U 
+ 4 U U U N U U U U U 
+ 3 U U N U U N U N U 
+ 2 U N U N N N C N N 
+ 1 R U D N N N C N R 
+ 0 R N U N N N U N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 84 ... [player] result: B
+ 8 R R U N N N C N R 
+ 7 R N U U U N C N R 
+ 6 S N U U N N U N B 
+ 5 N N U U N U N N U 
+ 4 U U U N U U U U B 
+ 3 U U N U U N U N U 
+ 2 U N U N N N C N N 
+ 1 R U D N N N C N R 
+ 0 R N U N N N U N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 44 ... [player] result:  
+ 8 R R U N N N C N R 
+ 7 R N U U U N C N R 
+ 6 S N U U N N U N B 
+ 5 N N U U N U N N U 
+ 4 U U U N N U U U B 
+ 3 U U N U U N U N U 
+ 2 U N U N N N C N N 
+ 1 R U D N N N C N R 
+ 0 R N U N N N U N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 60 ... [player] result: C
+ 8 R R U N N N C N R 
+ 7 R N U U U N C N R 
+ 6 S N U U N N U N B 
+ 5 N N U U N U N N U 
+ 4 U U U N N U U U B 
+ 3 U U N U U N U N U 
+ 2 U N U N N N C N N 
+ 1 R U D N N N C N R 
+ 0 R N U N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 74 ... [player] result:  
+ 8 R R U N N N C N R 
+ 7 R N U U U N C N R 
+ 6 S N U U N N U N B 
+ 5 N N U U N U N N U 
+ 4 U U U N N U U N B 
+ 3 U U N U U N U N U 
+ 2 U N U N N N C N N 
+ 1 R U D N N N C N R 
+ 0 R N U N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 02 ... [player] result: S
+ 8 R R U N N N C N R 
+ 7 R N U U U N C N R 
+ 6 S N U U N N U N B 
+ 5 N N U U N U N N U 
+ 4 U U U N N U U N B 
+ 3 N N N U U N U N U 
+ 2 S N U N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N U N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 64 ... [player] result: S
+ 8 R R U N N N C N R 
+ 7 R N U U U N C N R 
+ 6 S N U U N N U N B 
+ 5 N N U U N N N N U 
+ 4 U U U N N N S N B 
+ 3 N N N U U N N N U 
+ 2 S N U N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N U N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 47 ... [player] result:  
+ 8 R R U N N N C N R 
+ 7 R N U U N N C N R 
+ 6 S N U U N N U N B 
+ 5 N N U U N N N N U 
+ 4 U U U N N N S N B 
+ 3 N N N U U N N N U 
+ 2 S N U N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N U N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 28 ... [player] result: D
+ 8 R R D N N N C N R 
+ 7 R N U N N N C N R 
+ 6 S N U U N N U N B 
+ 5 N N U U N N N N U 
+ 4 U U U N N N S N B 
+ 3 N N N U U N N N U 
+ 2 S N U N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N U N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 20 ... [player] result:  
+ 8 R R D N N N C N R 
+ 7 R N U N N N C N R 
+ 6 S N U U N N U N B 
+ 5 N N U U N N N N U 
+ 4 U U U N N N S N B 
+ 3 N N N U U N N N U 
+ 2 S N U N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N N N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 36 ... [player] result:  
+ 8 R R D N N N C N R 
+ 7 R N U N N N C N R 
+ 6 S N U N N N U N B 
+ 5 N N U U N N N N U 
+ 4 U U U N N N S N B 
+ 3 N N N U U N N N U 
+ 2 S N U N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N N N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 66 ... [player] result: C
+ 8 R R D N N N C N R 
+ 7 R N U N N N C N R 
+ 6 S N U N N N C N B 
+ 5 N N U U N N N N U 
+ 4 U U U N N N S N B 
+ 3 N N N U U N N N U 
+ 2 S N U N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N N N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 33 ... [player] result:  
+ 8 R R D N N N C N R 
+ 7 R N U N N N C N R 
+ 6 S N U N N N C N B 
+ 5 N N U U N N N N U 
+ 4 U U U N N N S N B 
+ 3 N N N N U N N N U 
+ 2 S N U N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N N N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 14 ... [player] result:  
+ 8 R R D N N N C N R 
+ 7 R N U N N N C N R 
+ 6 S N U N N N C N B 
+ 5 N N U U N N N N U 
+ 4 U N U N N N S N B 
+ 3 N N N N U N N N U 
+ 2 S N U N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N N N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 43 ... [player] result:  
+ 8 R R D N N N C N R 
+ 7 R N U N N N C N R 
+ 6 S N U N N N C N B 
+ 5 N N U U N N N N U 
+ 4 U N U N N N S N B 
+ 3 N N N N N N N N U 
+ 2 S N U N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N N N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 04 ... [player] result: S
+ 8 R R D N N N C N R 
+ 7 R N U N N N C N R 
+ 6 S N U N N N C N B 
+ 5 N N U U N N N N U 
+ 4 S N U N N N S N B 
+ 3 N N N N N N N N U 
+ 2 S N U N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N N N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 24 ... [player] result: D
+ 8 R R D N N N C N R 
+ 7 R N U N N N C N R 
+ 6 S N U N N N C N B 
+ 5 N N U N N N N N U 
+ 4 S N D N N N S N B 
+ 3 N N N N N N N N U 
+ 2 S N U N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N N N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 85 ... [player] result: B
+ 8 R R D N N N C N R 
+ 7 R N U N N N C N R 
+ 6 S N U N N N C N B 
+ 5 N N U N N N N N B 
+ 4 S N D N N N S N B 
+ 3 N N N N N N N N U 
+ 2 S N U N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N N N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 26 ... [player] result:  
+ 8 R R D N N N C N R 
+ 7 R N U N N N C N R 
+ 6 S N N N N N C N B 
+ 5 N N U N N N N N B 
+ 4 S N D N N N S N B 
+ 3 N N N N N N N N U 
+ 2 S N U N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N N N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 83 ... [player] result: B
+ 8 R R D N N N C N R 
+ 7 R N U N N N C N R 
+ 6 S N N N N N C N B 
+ 5 N N U N N N N N B 
+ 4 S N D N N N S N B 
+ 3 N N N N N N N N B 
+ 2 S N U N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N N N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 27 ... [player] result: D
+ 8 R N D N N N C N R 
+ 7 R N D N N N C N R 
+ 6 S N N N N N C N B 
+ 5 N N U N N N N N B 
+ 4 S N D N N N S N B 
+ 3 N N N N N N N N B 
+ 2 S N U N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N N N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 25 ... [player] result: D
+ 8 R N D N N N C N R 
+ 7 R N D N N N C N R 
+ 6 S N N N N N C N B 
+ 5 N N D N N N N N B 
+ 4 S N D N N N S N B 
+ 3 N N N N N N N N B 
+ 2 S N U N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N N N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] shooting at 22 ... [player] result: D
+ 8 R N D N N N C N R 
+ 7 R N D N N N C N R 
+ 6 S N N N N N C N B 
+ 5 N N D N N N N N B 
+ 4 S N D N N N S N B 
+ 3 N N N N N N N N B 
+ 2 S N D N N N C N N 
+ 1 R N D N N N C N R 
+ 0 R N N N N N C N R 
+   0 1 2 3 4 5 6 7 8
+
+[player] ignoring message: game-result: you-win
